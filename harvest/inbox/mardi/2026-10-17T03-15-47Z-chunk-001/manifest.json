@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "mardi",
+  "agency_code": "MARDI",
+  "run_id": "2026-10-17T03-15-47Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:15:49.055Z",
+  "harvester": {
+    "name": "mardi-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "ca53afe8912581aecf75cbec0bf0cee1482ca55a0c42428c35989331bb21810b"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "216a494bb755c0ed10e4274bbf0e9ed2fd31a8b082414c31606f1288fb76f7c9"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "4e2c9616b928ba77d9d3d958ced71a974c3046893dbb9a85e7c4bbec2eec9030"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "7f5d1446aaeb806adeb55354fa4872238c08202de556fbaad31e3fdf0090e655"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "b197109c869b9b38336e86664c994d7dfbcd40a106ce313727160975c9f125cc"
+    }
+  ]
+}
